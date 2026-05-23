@@ -7,15 +7,17 @@ Graduate student focused on quantitative finance, risk analytics, and data-drive
 ---
 
 ## Technical Skills
+
 - Python
 - pandas
 - matplotlib
 - seaborn
+- Excel
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Financial Analytics
+- Statistical Analysis
 - Risk Analytics
-- Excel
+- Financial Analytics
 
 ---
 
