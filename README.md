@@ -1,60 +1,35 @@
-# Hi, I'm Jameel Shaikh 👋
+# Jameel Shaikh
 
-## Quantitative Finance & Risk Analytics
+**Quantitative Finance · Trading · Technology**
 
-Graduate student focused on quantitative finance, risk analytics, and data-driven decision making. Building projects involving exploratory data analysis, financial modeling, visualization, and operational analytics.
+Master of Finance candidate focused on portfolio analytics, market risk, quantitative research, and systematic trading. I build practical tools that connect financial analysis with Python and data-driven decision making.
 
----
+## Focus
 
-## Technical Skills
+`Portfolio Analytics` · `Market Risk` · `Quantitative Research` · `Algorithmic Trading`
 
-- Python
-- pandas
-- matplotlib
-- seaborn
-- Excel
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Statistical Analysis
-- Risk Analytics
-- Financial Analytics
+## Featured Work
 
----
+### [PortfolioLens](https://github.com/Jams411/portfoliolens)
+Multi-asset portfolio research application covering performance and risk analytics, benchmark-relative evaluation, portfolio construction, fixed-income analysis, rebalancing, systematic strategy research, and downloadable reporting.
 
-## Featured Projects
+### [Portfolio Intelligence Platform](https://github.com/Jams411/portfolio-intelligence-platform)
+Long-term quantitative investment research project exploring portfolio modeling, analytics, and investment decision workflows.
 
-### Bike Rental Demand Analysis
-Python-based exploratory data analysis project examining commuter demand patterns, weather impacts, and operational strategy insights using real-world rental data through visualization and statistical analysis.
+### [Trading Journal](https://github.com/Jams411/trading-journal)
+Trading-focused project for organizing and reviewing trading activity and research.
 
-🔗 Repository:
-https://github.com/Jams411/bike-rental-demand-analysis
+## Tools
 
----
+`Python` · `SQL` · `pandas` · `NumPy` · `Plotly` · `Streamlit` · `QuantConnect` · `Git`
 
-### Squid Game Text Adventure
-Interactive Python text adventure game using branching logic, user input, and dynamic storytelling mechanics inspired by survival-style gameplay.
+## Currently Exploring
 
-🔗 Repository:
-https://github.com/Jams411/squid-game-text-adventure
+- Portfolio and market-risk analytics
+- Systematic trading research
+- Financial data engineering
+- AI-assisted investment workflows
 
 ---
 
-### Interactive Python Story Game
-Beginner-friendly Python storytelling project demonstrating conditional logic, formatted output, loops, and interactive user-driven gameplay.
-
-🔗 Repository:
-https://github.com/Jams411/interactive-python-story-game
-
----
-
-## Current Focus
-- Time Series Analysis
-- Financial Risk Modeling
-- Quantitative Finance
-- Machine Learning
-- Portfolio Analytics
-
----
-
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/jams411/
+[LinkedIn](https://www.linkedin.com/in/jams411/) · [PortfolioLens](https://portfolio-lens.streamlit.app/)
