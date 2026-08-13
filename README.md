@@ -31,6 +31,14 @@ Portfolio analytics · Market risk · Systematic trading · Quantitative researc
 
 `Python` · `SQL` · `pandas` · `NumPy` · `Plotly` · `Streamlit` · `QuantConnect` · `Git`
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="./assets/activity.svg" alt="GitHub activity" width="100%" />
+
+</div>
+
 ---
 
 <div align="center">
